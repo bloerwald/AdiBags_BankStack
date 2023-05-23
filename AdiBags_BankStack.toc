@@ -1,4 +1,4 @@
-## Interface: 90002
+## Interface: 100100
 ## Title: AdiBags - BankStack integration
 ## Author: schlumpf
 ## Notes: Adds the BankStack minimap button to AdiBags bag buttons
