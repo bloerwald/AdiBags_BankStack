@@ -5,4 +5,6 @@
 ## OptionalDeps:
 ## Dependancies: AdiBags, BankStack
 ## SavedVariables:
+## X-Curse-Project-ID: 865195
+## X-Wago-ID: rN4VVAKD
 AdiBags_BankStack.lua
